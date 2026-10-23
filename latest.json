@@ -1,0 +1,10 @@
+{
+  "app": "TraCuuHoaDon",
+  "version": "1.0.2",
+  "notes": "Cải thiện tốc độ và độ ổn định.",
+  "exe_sha256": "0e03f1a3b4b8107c6d5c1c579307abe5ac1ff276d3c989a151d477a11370d58e",
+  "package_sha256": "681840b9cc6587c80946f93d5f5542e88c4abd5f24a14485bd3efd90cd13e4eb",
+  "package_size": 79532779,
+  "package_url": "https://github.com/trunginfo-lang/tra-cuu-hoa-don-updates/releases/download/v1.0.2/TraCuuHoaDon_UPDATE_V1_0_2.zip",
+  "signature": "HnyOn6IcbddE9DGdfsUAYLUlF/KXsNLOXl2sHJILAekpALelPOa6Omo/vaeUe17sj9FNvrua39oWC0p9NKdrDA=="
+}
